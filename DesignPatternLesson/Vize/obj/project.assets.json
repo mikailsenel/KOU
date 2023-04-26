@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikai\\source\\repos\\DesignPatternLesson\\Vize\\Vize.csproj",
+      "projectUniqueName": "D:\\Drive\\GitHub\\Private\\VisualStudioProjects\\KOU\\DesignPatternLesson\\Vize\\Vize.csproj",
       "projectName": "Vize",
-      "projectPath": "C:\\Users\\mikai\\source\\repos\\DesignPatternLesson\\Vize\\Vize.csproj",
+      "projectPath": "D:\\Drive\\GitHub\\Private\\VisualStudioProjects\\KOU\\DesignPatternLesson\\Vize\\Vize.csproj",
       "packagesPath": "C:\\Users\\mikai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikai\\source\\repos\\DesignPatternLesson\\Vize\\obj\\",
+      "outputPath": "D:\\Drive\\GitHub\\Private\\VisualStudioProjects\\KOU\\DesignPatternLesson\\Vize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
