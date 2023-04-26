@@ -1,0 +1,12 @@
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\bin\Debug\net7.0\Vize.deps.json
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\bin\Debug\net7.0\Vize.dll
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\bin\Debug\net7.0\Vize.pdb
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.csproj.AssemblyReference.cache
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.AssemblyInfoInputs.cache
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.AssemblyInfo.cs
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.csproj.CoreCompileInputs.cache
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.dll
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\refint\Vize.dll
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\Vize.pdb
+C:\Users\mikai\source\repos\DesignPatternLesson\Vize\obj\Debug\net7.0\ref\Vize.dll

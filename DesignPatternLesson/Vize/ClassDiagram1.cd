@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Vize.Employee.AircraftEmployee">
+    <Position X="11.75" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAFAAAAQABAAAAAAAAAIBAAAAAAA=</HashCode>
+      <FileName>Employee\AircraftEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Employee.AircraftWorker">
+    <Position X="11.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAACAAAA=</HashCode>
+      <FileName>Employee\AircraftWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Employee.CabinCrew">
+    <Position X="15.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAFAAAAQABAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Employee\CabinCrew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Employee.CabinCrewManager">
+    <Position X="9.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAFAAAAQABAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Employee\CabinCrewManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Employee.Pilot">
+    <Position X="12" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAFAAAAQABAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Employee\Pilot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Passenger.EnNationalityPassengerBuilder">
+    <Position X="0.5" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger\EnNationalityPassengerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Passenger.NationalityPassengerBuilder">
+    <Position X="3" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAA=</HashCode>
+      <FileName>Passenger\NationalityPassengerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Passenger.Passenger">
+    <Position X="4" Y="13" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAEAAAAQABAAAAAAAAAAAAAAACBA=</HashCode>
+      <FileName>Passenger\Passenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Passenger.ProtoTypePassenger">
+    <Position X="1" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Passenger\ProtoTypePassenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Passenger.TrNationalityPassengerBuilder">
+    <Position X="5.25" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger\TrNationalityPassengerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Airport.IstanbulAirport">
+    <Position X="0.75" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Airport\IstanbulAirport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vize.Airport.SabihaGokcenAirport">
+    <Position X="0.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Airport\SabihaGokcenAirport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vize.Plane.AirbusA320">
+    <Position X="8.75" Y="15" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAABQAAAAAABBA=</HashCode>
+      <FileName>Plane\AirbusA320.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Plane.Boeing707">
+    <Position X="11.75" Y="15" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAABQAAAAAABBA=</HashCode>
+      <FileName>Plane\Boeing707.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Plane.Plane">
+    <Position X="10.25" Y="11.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgEAAAAAAAAAAAAAAABQAAAAAABBA=</HashCode>
+      <FileName>Plane\Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Plane.PlaneCreater">
+    <Position X="13" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane\PlaneCreater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Tower.SabihaGokcenTower">
+    <Position X="0.5" Y="19.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Tower\SabihaGokcenTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Tower.Tower">
+    <Position X="1.5" Y="17" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Tower\Tower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vize.Tower.İstanbulAirportTower">
+    <Position X="3.75" Y="19.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Tower\İstanbulAirportTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vize.Airport.IAirport">
+    <Position X="0.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Airport\IAirport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Vize.Passenger.Genders">
+    <Position X="0.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Passenger\Genders.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vize.Passenger.Nationalities">
+    <Position X="0.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger\Nationalities.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vize.Plane.PlaneTypes">
+    <Position X="13" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Plane\PlaneTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
